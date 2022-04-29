@@ -1,5 +1,6 @@
 ### Hello World ! 👋
 
+I'm Non from Thailand. I enjoy learning new things about web development and game in general. I do want to learn something AI related but for now, I will keep improving my web development skills.
 <!--
 **SittikronNon/SittikronNon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
